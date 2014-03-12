@@ -58,7 +58,7 @@ function doLogin(username, password)
       var loggedIn = false;
       var resultFromLogin = '';
       console.log("username is :- " + username);
-      console.log("password is :- " + password;      
+      console.log("password is :- " + password);      
   
       $fh.auth({
         'policyId': 'MearsFeedHenryAuthPolicy',
