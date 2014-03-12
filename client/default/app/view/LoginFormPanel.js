@@ -57,10 +57,12 @@ function doLogin(username, password)
 {
       var loggedIn = false;
       var resultFromLogin = '';
+      console.log("username is :- " + username);
+      console.log("password is :- " + password;      
   
       $fh.auth({
         'policyId': 'MearsFeedHenryAuthPolicy',
-        'clientToken': 'Zifzl6TTCti8OXjauj4aBSV9',
+        'clientToken': '3VdyObIqH--3eWv49kfXLh3l',
         'endRedirectUrl': window.location.href,
         'params': {
           'userId': username,
