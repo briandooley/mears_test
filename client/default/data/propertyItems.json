@@ -1,0 +1,1509 @@
+{
+        "items": 
+        [   {
+            "text": "Kitchen",
+            "items": 
+                [   {
+                    "text": "Sink Unit",
+                    "items": 
+                        [   {
+                            "text": "Sink Door",
+                            "leaf": true
+                            }, 
+                            {
+                            "text": "Sink Unit Drawer",
+                            "leaf": true
+                            }, 
+                            {
+                            "text": "Stainless Steel Sink Top",
+                            "leaf": true
+                            }, 
+                            {
+                            "text": "Sink Unit Shelf",
+                            "leaf": true
+                            }, 
+                            {
+                            "text": "Sink Unit Handle",
+                            "leaf": true
+                            }, 
+                            {
+                            "text": "Sink Unit Door Hinges",
+                            "leaf": true
+                            }, 
+                            {
+                            "text": "Pipes and Drainage",
+                            "leaf": true
+                            }, 
+                            {
+                            "text": "Not Sure",
+                            "leaf": true
+                            }
+                        ]
+                    }, 
+                    {
+                        "text": "Sink Taps",
+                        "items": 
+                            [   {
+                                "text": "Lever Tap",
+                                "leaf": true
+                                }, 
+                                {
+                                "text": "Mixer Tap",
+                                "leaf": true
+                                }, 
+                                {
+                                "text": "Pillar Tap",
+                                "leaf": true
+                                }, 
+                                {
+                                "text": "Stop Cock",
+                                "leaf": true
+                                }, 
+                                {
+                                "text": "Not Sure",
+                                "leaf": true
+                                }
+                            ]
+                    }, 
+                    {
+                        "text": "White Goods and Cooker",
+                        "items": 
+                            [   {
+                                "text": "Fridge",
+                                "leaf": true
+                                }, 
+                                {
+                                "text": "Freezer",
+                                "leaf": true
+                                }, 
+                                {
+                                "text": "Dishwasher",
+                                "leaf": true
+                                }, 
+                                {
+                                "text": "Washing Machine",
+                                "leaf": true
+                                }, 
+                                {
+                                "text": "Tumble Dryer",
+                                "leaf": true
+                                }, 
+                                {
+                                "text": "Cooker",
+                                "leaf": true
+                                }, 
+                                {
+                                "text": "Microwave",
+                                "leaf": true
+                                }, 
+                                {
+                                "text": "Not Sure",
+                                "leaf": true
+                                }
+                            ]
+                    }, 
+                    {
+                        "text": "Units and Worktop",
+                        "items": 
+                            [   {
+                                "text": "Base Unit",
+                                "leaf": true
+                                }, 
+                                {
+                                "text": "Larder Unit",
+                                "leaf": true
+                                }, 
+                                {
+                                "text": "Wall Unit",
+                                "leaf": true
+                                }, 
+                                {
+                                "text": "Worktop",
+                                "leaf": true
+                                }, 
+                                {
+                                "text": "Not Sure",
+                                "leaf": true
+                                }
+                            ]
+                    }, 
+                    {
+                        "text": "Flooring",
+                        "items": 
+                            [   {
+                                "text": "Floor Tiles or Coverings",
+                                "leaf": true
+                                }, 
+                                {
+                                "text": "Floor Boards",
+                                "leaf": true
+                                }, 
+                                {
+                                "text": "Skirting Boards",
+                                "leaf": true
+                                }, 
+                                {
+                                "text": "Not Sure",
+                                "leaf": true
+                                }
+                            ]
+                    }, 
+                    {
+                        "text": "Extractors",
+                        "items": 
+                            [   {
+                                "text": "Wall Ventilator",
+                                "leaf": true
+                                }, 
+                                {
+                                "text": "Cooker Switch and Outlet",
+                                "leaf": true
+                                }, 
+                                {
+                                "text": "Fuse Box",
+                                "leaf": true
+                                }, 
+                                {
+                                "text": "Extractor",
+                                "leaf": true
+                                }, 
+                                {
+                                "text": "Smoke Detector",
+                                "leaf": true
+                                }, 
+                                {
+                                "text": "Not Sure",
+                                "leaf": true
+                                }
+                            ]
+                    }, 
+                    {
+                        "text": "Condensation, Brickwork and Plastering",
+                        "items": 
+                            [   {
+                                "text": "Cracked Plaster to Ceiling",
+                                "leaf": true
+                                }, 
+                                {
+                                "text": "Condensation and Mould Growth",
+                                "leaf": true
+                                }, 
+                                {
+                                "text": "Wall Ventilator",
+                                "leaf": true
+                                }, 
+                                {
+                                "text": "Water Penetration From Above",
+                                "leaf": true
+                                }, 
+                                {
+                                "text": "Cracked Plaster to Wall",
+                                "leaf": true
+                                }, 
+                                {
+                                "text": "Rising Damp",
+                                "leaf": true
+                                }, 
+                                {
+                                "text": "Skirting Boards",
+                                "leaf": true
+                                }, 
+                                {
+                                "text": "Floor Tiles or Coverings",
+                                "leaf": true
+                                }, 
+                                {
+                                "text": "Floor Boards",
+                                "leaf": true
+                                }, 
+                                {
+                                "text": "Not Sure",
+                                "leaf": true
+                                }
+                            ]
+                    }, 
+                    {
+                        "text": "Heating and Water",
+                        "items": 
+                            [   {
+                                "text": "Central Heating Systems",
+                                "leaf": true
+                                }, 
+                                {
+                                "text": "Gas and Electric Fires and Heaters",
+                                "items":
+                                    [   {
+                                        "text": "Night Storage Heater",
+                                        "leaf": true
+                                        },
+                                        {
+                                            "text": "Radiant Heater",
+                                            "leaf": true
+                                        },
+                                        {
+                                            "text": "Convector Heater",
+                                            "leaf": true
+                                        },
+                                        {
+                                            "text": "Wall Mounted Gas Fire",
+                                            "leaf": true
+                                        },
+                                        {
+                                            "text": "Floor Mounted Gas Fire",
+                                            "leaf": true
+                                        },
+                                        {
+                                            "text": "Not Sure",
+                                            "leaf": true
+                                        }
+                                    ]
+                                },
+                                {
+                                    "text": "Heating Thermostat",
+                                    "items":
+                                        [   {
+                                            "text": "Self Contained Warm Air Heating and Hot Water System",
+                                            "leaf": true
+                                        },
+                                            {
+                                                "text": "Self Contained Heating and Hot Water System",
+                                                "leaf": true
+                                            },
+                                            {
+                                                "text": "Communal Warm Air Heating and Hot Water System",
+                                                "leaf": true
+                                            },
+                                            {
+                                                "text": "Communal Heating and Hot Water System",
+                                                "leaf": true
+                                            },
+                                            {
+                                                "text": "Not Sure",
+                                                "leaf": true
+                                            }
+                                        ]
+                                },
+                                {
+                                    "text": "Meter Cupboard",
+                                    "items":
+                                        [   {
+                                            "text": "Gas/Electric Meter Cupboard",
+                                            "leaf": true
+                                        },
+                                            {
+                                                "text": "Fuse Box Main Switch",
+                                                "leaf": true
+                                            },
+                                            {
+                                                "text": "Fuse Box Circuit Breakers/Fuses",
+                                                "leaf": true
+                                            },
+                                            {
+                                                "text": "Electric Meter",
+                                                "leaf": true
+                                            },
+                                            {
+                                                "text": "Gas meter Turn Cock",
+                                                "leaf": true
+                                            }
+                                        ]
+                                },
+                                {
+                                    "text": "Hot Water Systems",
+                                    "items":
+                                        [   {
+                                            "text": "Immersion Heater",
+                                            "leaf": true
+                                        },
+                                            {
+                                                "text": "Cylinder Insulation Jacket",
+                                                "leaf": true
+                                            },
+                                            {
+                                                "text": "Stop Valve",
+                                                "leaf": true
+                                            },
+                                            {
+                                                "text": "Leaking Pipes or Water Cylinder",
+                                                "leaf": true
+                                            },
+                                            {
+                                                "text": "Multi Point Gas Water Heater",
+                                                "leaf": true
+                                            },
+                                            {
+                                                "text": "Single Point Over Sink Gas Water Heater",
+                                                "leaf": true
+                                            },
+                                            {
+                                                "text": "Single Point Over Sink Electric Water Heater",
+                                                "leaf": true
+                                            },
+                                            {
+                                                "text": "Not Sure",
+                                                "leaf": true
+                                            }
+                                        ]
+                                },
+                                {
+                                    "text": "Condensation",
+                                    "items":
+                                        [   {
+                                            "text": "Cracked Plaster to Ceiling",
+                                            "leaf": true
+                                            },
+                                            {
+                                                "text": "Condensation and Mould Growth",
+                                                "leaf": true
+                                            },
+                                            {
+                                                "text": "Wall Ventilator",
+                                                "leaf": true
+                                            },
+                                            {
+                                                "text": "Water Penetration From Above",
+                                                "leaf": true
+                                            },
+                                            {
+                                                "text": "Cracked Plaster to Wall",
+                                                "leaf": true
+                                            },
+                                            {
+                                                "text": "Rising Damp",
+                                                "leaf": true
+                                            },
+                                            {
+                                                "text": "Skirting Boards",
+                                                "leaf": true
+                                            },
+                                            {
+                                                "text": "Floor Tiles or Coverings",
+                                                "leaf": true
+                                            },
+                                            {
+                                                "text": "Floor Boards",
+                                                "leaf": true
+                                            },
+                                            {
+                                                "text": "Not Sure",
+                                                "leaf": true
+                                            }
+                                        ]
+                                },
+                                {
+                                    "text": "Smoke Detectors",
+                                    "leaf": true
+                                },
+                                {
+                                    "text": "Other",
+                                    "leaf": true
+                                }
+                                        ]
+                                },
+                    {
+                        "text": "Lights and Electrical",
+                        "items": 
+                            [   {
+                                "text": "Lights",
+                                "items": 
+                                    [   {
+                                        "text": "Fluorescent Light",
+                                        "leaf": true
+                                        }, 
+                                        {
+                                        "text": "Ceiling Light",
+                                        "leaf": true
+                                        }, 
+                                        {
+                                        "text": "Pull Cord Switch",
+                                        "leaf": true
+                                        }, 
+                                        {
+                                        "text": "Light Switch",
+                                        "leaf": true
+                                        }, 
+                                        {
+                                        "text": "No Lighting",
+                                        "leaf": true
+                                        }, 
+                                        {
+                                        "text": "Outside",
+                                        "leaf": true
+                                        }, 
+                                        {
+                                        "text": "Not Sure",
+                                        "leaf": true
+                                        }
+                                    ]
+                                }, 
+                                {
+                                "text": "Electrics",
+                                "items": 
+                                    [   {
+                                        "text": "No Power",
+                                        "leaf": true
+                                        }, 
+                                        {
+                                        "text": "Extractor Fan",
+                                        "leaf": true
+                                        }, 
+                                        {
+                                        "text": "Cooker Power",
+                                        "leaf": true
+                                        }, 
+                                        {
+                                        "text": "Switched Spur",
+                                        "leaf": true
+                                        }, 
+                                        {
+                                        "text": "Light Switch",
+                                        "leaf": true
+                                        }, 
+                                        {
+                                        "text": "Heated Towel Rail",
+                                        "leaf": true
+                                        }, 
+                                        {
+                                        "text": "Shower Power",
+                                        "leaf": true
+                                        }, 
+                                        {
+                                        "text": "Socket Outlet",
+                                        "leaf": true
+                                        }, 
+                                        {
+                                        "text": "Not Sure",
+                                        "leaf": true
+                                        }
+                                    ]
+                                }, 
+                                {
+                                "text": "Not Sure",
+                                "leaf": true
+                                }
+                            ]
+                    }, 
+                    {
+                        "text": "Doors and Windows",
+                        "items": 
+                            [   {
+                                "text": "Front Door",
+                                "items": 
+                                    [   {
+                                        "text": "Doors and Fitting",
+                                        "items": 
+                                            [   {
+                                                "text": "Panelled Door",
+                                                "leaf": true
+                                                }, 
+                                                {
+                                                "text": "Half Glazed Door",
+                                                "leaf": true
+                                                }, 
+                                                {
+                                                "text": "Flush Door",
+                                                "leaf": true
+                                                }, 
+                                                {
+                                                "text": "Base Unit Door",
+                                                "leaf": true
+                                                }, 
+                                                {
+                                                "text": "Wall Unit Door",
+                                                "leaf": true
+                                                }, 
+                                                {
+                                                "text": "Larder Unit Door",
+                                                "leaf": true
+                                                }, 
+                                                {
+                                                "text": "Other",
+                                                "leaf": true
+                                                }
+                                            ]
+                                        }, 
+                                        {
+                                        "text": "Locks and Handles",
+                                        "items": 
+                                            [   {
+                                                "text": "Mortise Latch",
+                                                "leaf": true
+                                                }, 
+                                                {
+                                                "text": "Mortise Lock and Latch",
+                                                "leaf": true
+                                                }, 
+                                                {
+                                                "text": "Lever Style Handles",
+                                                "leaf": true
+                                                }, 
+                                                {
+                                                "text": "Knob Style Handles",
+                                                "leaf": true
+                                                }, 
+                                                {
+                                                "text": "Rim Latch",
+                                                "leaf": true
+                                                }, 
+                                                {
+                                                "text": "Discrete Door Closer",
+                                                "leaf": true
+                                                }, 
+                                                {
+                                                "text": "Rising Butt Hinges",
+                                                "leaf": true
+                                                }, 
+                                                {
+                                                "text": "Surface Mounted Door Closer",
+                                                "leaf": true
+                                                }, 
+                                                {
+                                                "text": "Overhead Door Closer",
+                                                "leaf": true
+                                                }, 
+                                                {
+                                                "text": "Not Sure",
+                                                "leaf": true
+                                                }
+                                            ]
+                                        }, 
+                                        {
+                                        "text": "Door Bell and Entry System",
+                                        "leaf": true
+                                        },
+                                        {
+                                            "text": "Other",
+                                            "leaf": true
+                                        }
+                                    ]
+                                }, 
+                                {
+                                "text": "Back Door",
+                                "items": 
+                                    [   {
+                                        "text": "Doors and Fitting",
+                                        "items": 
+                                            [   {
+                                                "text": "Panelled Door",
+                                                "leaf": true
+                                                }, 
+                                                {
+                                                "text": "Half Glazed Door",
+                                                "leaf": true
+                                                }, 
+                                                {
+                                                "text": "Flush Door",
+                                                "leaf": true
+                                                }, 
+                                                {
+                                                "text": "Base Unit Door",
+                                                "leaf": true
+                                                }, 
+                                                {
+                                                "text": "Wall Unit Door",
+                                                "leaf": true
+                                                }, 
+                                                {
+                                                "text": "Larder Unit Door",
+                                                "leaf": true
+                                                }, 
+                                                {
+                                                "text": "Other",
+                                                "leaf": true
+                                                }
+                                            ]
+                                        }, 
+                                        {
+                                        "text": "Locks and Handles",
+                                        "items": 
+                                            [   {
+                                                "text": "Mortise Latch",
+                                                "leaf": true
+                                                }, 
+                                                {
+                                                "text": "Mortise Lock and Latch",
+                                                "leaf": true
+                                                }, 
+                                                {
+                                                "text": "Lever Style Handles",
+                                                "leaf": true
+                                                }, 
+                                                {
+                                                "text": "Knob Style Handles",
+                                                "leaf": true
+                                                }, 
+                                                {
+                                                "text": "Rim Latch",
+                                                "leaf": true
+                                                }, 
+                                                {
+                                                "text": "Discrete Door Closer",
+                                                "leaf": true
+                                                }, 
+                                                {
+                                                "text": "Rising Butt Hinges",
+                                                "leaf": true
+                                                }, 
+                                                {
+                                                "text": "Surface Mounted Door Closer",
+                                                "leaf": true
+                                                }, 
+                                                {
+                                                "text": "Overhead Door Closer",
+                                                "leaf": true
+                                                }, 
+                                                {
+                                                "text": "Not Sure",
+                                                "leaf": true
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+
+                                {
+                                    "text": "Windows",
+                                    "items":
+                                        [   {
+                                            "text": "Broken Glass",
+                                            "leaf": true
+                                        },
+                                            {
+                                                "text": "Casement Window",
+                                                "leaf": true
+                                            },
+                                            {
+                                                "text": "Double Hung Sash Window",
+                                                "leaf": true
+                                            },
+                                            {
+                                                "text": "Pivot Window",
+                                                "leaf": true
+                                            },
+                                            {
+                                                "text": "Fan Light Window",
+                                                "leaf": true
+                                            },
+                                            {
+                                                "text": "Aluminium Sliding Window",
+                                                "leaf": true
+                                            },
+                                            {
+                                                "text": "Window Ventilator",
+                                                "leaf": true
+                                            },
+                                            {
+                                                "text": "Screw Type Sash Fastener",
+                                                "leaf": true
+                                            },
+                                            {
+                                                "text": "Casement Stay",
+                                                "leaf": true
+                                            },
+                                            {
+                                                "text": "Thumb Turn Sash Fastener",
+                                                "leaf": true
+                                            },
+                                            {
+                                                "text": "Casement or Fanlight Butt Hinges",
+                                                "leaf": true
+                                            },
+                                            {
+                                                "text": "Sash Cords and Pulleys",
+                                                "leaf": true
+                                            }
+                                        ]
+                                },
+                                {
+                                    "text": "Locks and Handles",
+                                    "items":
+                                        [   {
+                                            "text": "Mortise Latch",
+                                            "leaf": true
+                                        },
+                                            {
+                                                "text": "Mortise Lock and Latch",
+                                                "leaf": true
+                                            },
+                                            {
+                                                "text": "Lever Style Handles",
+                                                "leaf": true
+                                            },
+                                            {
+                                                "text": "Knob Style Handles",
+                                                "leaf": true
+                                            },
+                                            {
+                                                "text": "Rim Latch",
+                                                "leaf": true
+                                            },
+                                            {
+                                                "text": "Discrete Door Closer",
+                                                "leaf": true
+                                            },
+                                            {
+                                                "text": "Rising Butt Hinges",
+                                                "leaf": true
+                                            },
+                                            {
+                                                "text": "Surface Mounted Door Closer",
+                                                "leaf": true
+                                            },
+                                            {
+                                                "text": "Overhead Door Closer",
+                                                "leaf": true
+                                            },
+                                            {
+                                                "text": "Not Sure",
+                                                "leaf": true
+                                            }
+                                        ]
+                                },
+                                {
+                                    "text": "Door Bell and Entry System",
+                                    "leaf": true
+                                },
+                                {
+                                    "text": "Other",
+                                    "leaf": true
+                                }
+                            ]
+                    }, 
+                    {
+                        "text": "Other",
+                        "leaf": true
+                    }
+                ]
+                }, 
+                {
+                    "text": "Bathroom",
+                    "items":
+                        [   {
+                            "text": "Bathroom/Toilet",
+                            "items":
+                                [   {
+                                    "text": "Toilet",
+                                    "leaf": true
+                                },
+                                    {
+                                        "text": "WC",
+                                        "leaf": true
+                                    },
+                                    {
+                                        "text": "Bath",
+                                        "leaf": true
+                                    },
+                                    {
+                                        "text": "Wash Basin",
+                                        "leaf": true
+                                    },
+                                    {
+                                        "text": "Wall Tiles",
+                                        "leaf": true
+                                    },
+                                    {
+                                        "text": "Taps",
+                                        "leaf": true
+                                    },
+                                    {
+                                        "text": "Plug and Chain",
+                                        "leaf": true
+                                    },
+                                    {
+                                        "text": "Waste and Overflow",
+                                        "leaf": true
+                                    },
+                                    {
+                                        "text": "Bath Panel",
+                                        "leaf": true
+                                    },
+                                    {
+                                        "text": "Flooring",
+                                        "leaf": true
+                                    },
+                                    {
+                                        "text": "Not Sure",
+                                        "leaf": true
+                                    }
+                                ]
+                            },
+                            {
+                                "text": "Shower",
+                                "items":
+                                    [   {
+                                        "text": "Shower Tray",
+                                        "leaf": true
+                                        },
+                                        {
+                                            "text": "Waste Fitting",
+                                            "leaf": true
+                                        },
+                                        {
+                                            "text": "Electric Shower Controls",
+                                            "leaf": true
+                                        },
+                                        {
+                                            "text": "Shower Head And Hose",
+                                            "leaf": true
+                                        },
+                                        {
+                                            "text": "Shower Head Mountings",
+                                            "leaf": true
+                                        },
+                                        {
+                                            "text": "Tiling",
+                                            "leaf": true
+                                        },
+                                        {
+                                            "text": "Curtian Rail",
+                                            "leaf": true
+                                        },
+                                        {
+                                            "text": "Curtain",
+                                            "leaf": true
+                                        },
+                                        {
+                                            "text": "Flooring",
+                                            "leaf": true
+                                        },
+                                        {
+                                            "text": "Not Sure",
+                                            "leaf": true
+                                        }
+                                    ]
+                            },
+                            {
+                                "text": "Extractor",
+                                "leaf": true
+                            },
+                            {
+                                "text": "Electric Fires and Heaters",
+                                "items":
+                                    [   {
+                                        "text": "Wall Heater",
+                                        "leaf": true
+                                        },
+                                        {
+                                            "text": "Heated Towel Rail",
+                                            "leaf": true
+                                        },
+                                        {
+                                            "text": "Not Sure",
+                                            "leaf": true
+                                        }
+                                    ]
+                            },
+                            {
+                                "text": "Condensation, Brickwork and Plastering",
+                                "items":
+                                    [   {
+                                        "text": "Cracked Plaster to Ceiling",
+                                        "leaf": true
+                                        },
+                                        {
+                                            "text": "Condensation and Mould Growth",
+                                            "leaf": true
+                                        },
+                                        {
+                                            "text": "Wall Ventilator",
+                                            "leaf": true
+                                        },
+                                        {
+                                            "text": "Water Penetration From Above",
+                                            "leaf": true
+                                        },
+                                        {
+                                            "text": "Cracked Plaster to Wall",
+                                            "leaf": true
+                                        },
+                                        {
+                                            "text": "Rising Damp",
+                                            "leaf": true
+                                        },
+                                        {
+                                            "text": "Skirting Boards",
+                                            "leaf": true
+                                        },
+                                        {
+                                            "text": "Floor Tiles or Coverings",
+                                            "leaf": true
+                                        },
+                                        {
+                                            "text": "Floor Boards",
+                                            "leaf": true
+                                        },
+                                        {
+                                            "text": "Not Sure",
+                                            "leaf": true
+                                        }
+                                    ]
+                            },
+                            {
+                                "text": "Heating and Water",
+                                "items":
+                                    [   {
+                                        "text": "Central Heating Systems",
+                                        "leaf": true
+                                    },
+                                        {
+                                            "text": "Gas and Electric Fires and Heaters",
+                                            "items":
+                                                [   {
+                                                    "text": "Night Storage Heater",
+                                                    "leaf": true
+                                                },
+                                                    {
+                                                        "text": "Radiant Heater",
+                                                        "leaf": true
+                                                    },
+                                                    {
+                                                        "text": "Convector Heater",
+                                                        "leaf": true
+                                                    },
+                                                    {
+                                                        "text": "Wall Mounted Gas Fire",
+                                                        "leaf": true
+                                                    },
+                                                    {
+                                                        "text": "Floor Mounted Gas Fire",
+                                                        "leaf": true
+                                                    },
+                                                    {
+                                                        "text": "Not Sure",
+                                                        "leaf": true
+                                                    }
+                                                ]
+                                        },
+                                        {
+                                            "text": "Heating Thermostat",
+                                            "items":
+                                                [   {
+                                                    "text": "Self Contained Warm Air Heating and Hot Water System",
+                                                    "leaf": true
+                                                },
+                                                    {
+                                                        "text": "Self Contained Heating and Hot Water System",
+                                                        "leaf": true
+                                                    },
+                                                    {
+                                                        "text": "Communal Warm Air Heating and Hot Water System",
+                                                        "leaf": true
+                                                    },
+                                                    {
+                                                        "text": "Communal Heating and Hot Water System",
+                                                        "leaf": true
+                                                    },
+                                                    {
+                                                        "text": "Not Sure",
+                                                        "leaf": true
+                                                    }
+                                                ]
+                                        },
+                                        {
+                                            "text": "Meter Cupboard",
+                                            "items":
+                                                [   {
+                                                    "text": "Gas/Electric Meter Cupboard",
+                                                    "leaf": true
+                                                },
+                                                    {
+                                                        "text": "Fuse Box Main Switch",
+                                                        "leaf": true
+                                                    },
+                                                    {
+                                                        "text": "Fuse Box Circuit Breakers/Fuses",
+                                                        "leaf": true
+                                                    },
+                                                    {
+                                                        "text": "Electric Meter",
+                                                        "leaf": true
+                                                    },
+                                                    {
+                                                        "text": "Gas meter Turn Cock",
+                                                        "leaf": true
+                                                    }
+                                                ]
+                                        },
+                                        {
+                                            "text": "Hot Water Systems",
+                                            "items":
+                                                [   {
+                                                    "text": "Immersion Heater",
+                                                    "leaf": true
+                                                },
+                                                    {
+                                                        "text": "Cylinder Insulation Jacket",
+                                                        "leaf": true
+                                                    },
+                                                    {
+                                                        "text": "Stop Valve",
+                                                        "leaf": true
+                                                    },
+                                                    {
+                                                        "text": "Leaking Pipes or Water Cylinder",
+                                                        "leaf": true
+                                                    },
+                                                    {
+                                                        "text": "Multi Point Gas Water Heater",
+                                                        "leaf": true
+                                                    },
+                                                    {
+                                                        "text": "Single Point Over Sink Gas Water Heater",
+                                                        "leaf": true
+                                                    },
+                                                    {
+                                                        "text": "Single Point Over Sink Electric Water Heater",
+                                                        "leaf": true
+                                                    },
+                                                    {
+                                                        "text": "Not Sure",
+                                                        "leaf": true
+                                                    }
+                                                ]
+                                        },
+                                        {
+                                            "text": "Condensation",
+                                            "items":
+                                                [   {
+                                                    "text": "Cracked Plaster to Ceiling",
+                                                    "leaf": true
+                                                },
+                                                    {
+                                                        "text": "Condensation and Mould Growth",
+                                                        "leaf": true
+                                                    },
+                                                    {
+                                                        "text": "Wall Ventilator",
+                                                        "leaf": true
+                                                    },
+                                                    {
+                                                        "text": "Water Penetration From Above",
+                                                        "leaf": true
+                                                    },
+                                                    {
+                                                        "text": "Cracked Plaster to Wall",
+                                                        "leaf": true
+                                                    },
+                                                    {
+                                                        "text": "Rising Damp",
+                                                        "leaf": true
+                                                    },
+                                                    {
+                                                        "text": "Skirting Boards",
+                                                        "leaf": true
+                                                    },
+                                                    {
+                                                        "text": "Floor Tiles or Coverings",
+                                                        "leaf": true
+                                                    },
+                                                    {
+                                                        "text": "Floor Boards",
+                                                        "leaf": true
+                                                    },
+                                                    {
+                                                        "text": "Not Sure",
+                                                        "leaf": true
+                                                    }
+                                                ]
+                                        },
+                                        {
+                                            "text": "Smoke Detectors",
+                                            "leaf": true
+                                        },
+                                        {
+                                            "text": "Other",
+                                            "leaf": true
+                                        }
+                                    ]
+                            },
+                            {
+                                "text": "Lights and Electrical",
+                                "items":
+                                    [   {
+                                        "text": "Lights",
+                                        "items":
+                                            [   {
+                                                "text": "Fluorescent Light",
+                                                "leaf": true
+                                            },
+                                                {
+                                                    "text": "Ceiling Light",
+                                                    "leaf": true
+                                                },
+                                                {
+                                                    "text": "Pull Cord Switch",
+                                                    "leaf": true
+                                                },
+                                                {
+                                                    "text": "Light Switch",
+                                                    "leaf": true
+                                                },
+                                                {
+                                                    "text": "No Lighting",
+                                                    "leaf": true
+                                                },
+                                                {
+                                                    "text": "Outside",
+                                                    "leaf": true
+                                                },
+                                                {
+                                                    "text": "Not Sure",
+                                                    "leaf": true
+                                                }
+                                            ]
+                                    },
+                                        {
+                                            "text": "Electrics",
+                                            "items":
+                                                [   {
+                                                    "text": "No Power",
+                                                    "leaf": true
+                                                },
+                                                    {
+                                                        "text": "Extractor Fan",
+                                                        "leaf": true
+                                                    },
+                                                    {
+                                                        "text": "Cooker Power",
+                                                        "leaf": true
+                                                    },
+                                                    {
+                                                        "text": "Switched Spur",
+                                                        "leaf": true
+                                                    },
+                                                    {
+                                                        "text": "Light Switch",
+                                                        "leaf": true
+                                                    },
+                                                    {
+                                                        "text": "Heated Towel Rail",
+                                                        "leaf": true
+                                                    },
+                                                    {
+                                                        "text": "Shower Power",
+                                                        "leaf": true
+                                                    },
+                                                    {
+                                                        "text": "Socket Outlet",
+                                                        "leaf": true
+                                                    },
+                                                    {
+                                                        "text": "Not Sure",
+                                                        "leaf": true
+                                                    }
+                                                ]
+                                        },
+                                        {
+                                            "text": "Not Sure",
+                                            "leaf": true
+                                        }
+                                    ]
+                            },
+                            {
+                                "text": "Flooring/Carpet",
+                                "leaf": true
+                            },
+                            {
+                                "text": "Doors and Windows",
+                                "items":
+                                    [   {
+                                        "text": "Front Door",
+                                        "items":
+                                            [   {
+                                                "text": "Doors and Fitting",
+                                                "items":
+                                                    [   {
+                                                        "text": "Panelled Door",
+                                                        "leaf": true
+                                                    },
+                                                        {
+                                                            "text": "Half Glazed Door",
+                                                            "leaf": true
+                                                        },
+                                                        {
+                                                            "text": "Flush Door",
+                                                            "leaf": true
+                                                        },
+                                                        {
+                                                            "text": "Base Unit Door",
+                                                            "leaf": true
+                                                        },
+                                                        {
+                                                            "text": "Wall Unit Door",
+                                                            "leaf": true
+                                                        },
+                                                        {
+                                                            "text": "Larder Unit Door",
+                                                            "leaf": true
+                                                        },
+                                                        {
+                                                            "text": "Other",
+                                                            "leaf": true
+                                                        }
+                                                    ]
+                                            },
+                                                {
+                                                    "text": "Locks and Handles",
+                                                    "items":
+                                                        [   {
+                                                            "text": "Mortise Latch",
+                                                            "leaf": true
+                                                        },
+                                                            {
+                                                                "text": "Mortise Lock and Latch",
+                                                                "leaf": true
+                                                            },
+                                                            {
+                                                                "text": "Lever Style Handles",
+                                                                "leaf": true
+                                                            },
+                                                            {
+                                                                "text": "Knob Style Handles",
+                                                                "leaf": true
+                                                            },
+                                                            {
+                                                                "text": "Rim Latch",
+                                                                "leaf": true
+                                                            },
+                                                            {
+                                                                "text": "Discrete Door Closer",
+                                                                "leaf": true
+                                                            },
+                                                            {
+                                                                "text": "Rising Butt Hinges",
+                                                                "leaf": true
+                                                            },
+                                                            {
+                                                                "text": "Surface Mounted Door Closer",
+                                                                "leaf": true
+                                                            },
+                                                            {
+                                                                "text": "Overhead Door Closer",
+                                                                "leaf": true
+                                                            },
+                                                            {
+                                                                "text": "Not Sure",
+                                                                "leaf": true
+                                                            }
+                                                        ]
+                                                },
+                                                {
+                                                    "text": "Door Bell and Entry System",
+                                                    "leaf": true
+                                                }
+                                            ]
+                                    },
+                                        {
+                                            "text": "Back Door",
+                                            "items":
+                                                [   {
+                                                    "text": "Doors and Fitting",
+                                                    "items":
+                                                        [   {
+                                                            "text": "Panelled Door",
+                                                            "leaf": true
+                                                        },
+                                                            {
+                                                                "text": "Half Glazed Door",
+                                                                "leaf": true
+                                                            },
+                                                            {
+                                                                "text": "Flush Door",
+                                                                "leaf": true
+                                                            },
+                                                            {
+                                                                "text": "Base Unit Door",
+                                                                "leaf": true
+                                                            },
+                                                            {
+                                                                "text": "Wall Unit Door",
+                                                                "leaf": true
+                                                            },
+                                                            {
+                                                                "text": "Larder Unit Door",
+                                                                "leaf": true
+                                                            },
+                                                            {
+                                                                "text": "Other",
+                                                                "leaf": true
+                                                            }
+                                                        ]
+                                                },
+                                                    {
+                                                        "text": "Locks and Handles",
+                                                        "items":
+                                                            [   {
+                                                                "text": "Mortise Latch",
+                                                                "leaf": true
+                                                            },
+                                                                {
+                                                                    "text": "Mortise Lock and Latch",
+                                                                    "leaf": true
+                                                                },
+                                                                {
+                                                                    "text": "Lever Style Handles",
+                                                                    "leaf": true
+                                                                },
+                                                                {
+                                                                    "text": "Knob Style Handles",
+                                                                    "leaf": true
+                                                                },
+                                                                {
+                                                                    "text": "Rim Latch",
+                                                                    "leaf": true
+                                                                },
+                                                                {
+                                                                    "text": "Discrete Door Closer",
+                                                                    "leaf": true
+                                                                },
+                                                                {
+                                                                    "text": "Rising Butt Hinges",
+                                                                    "leaf": true
+                                                                },
+                                                                {
+                                                                    "text": "Surface Mounted Door Closer",
+                                                                    "leaf": true
+                                                                },
+                                                                {
+                                                                    "text": "Overhead Door Closer",
+                                                                    "leaf": true
+                                                                },
+                                                                {
+                                                                    "text": "Not Sure",
+                                                                    "leaf": true
+                                                                }
+                                                            ]
+                                                    }
+                                                ]
+                                        },
+
+                                        {
+                                            "text": "Windows",
+                                            "items":
+                                                [   {
+                                                    "text": "Broken Glass",
+                                                    "leaf": true
+                                                },
+                                                    {
+                                                        "text": "Casement Window",
+                                                        "leaf": true
+                                                    },
+                                                    {
+                                                        "text": "Double Hung Sash Window",
+                                                        "leaf": true
+                                                    },
+                                                    {
+                                                        "text": "Pivot Window",
+                                                        "leaf": true
+                                                    },
+                                                    {
+                                                        "text": "Fan Light Window",
+                                                        "leaf": true
+                                                    },
+                                                    {
+                                                        "text": "Aluminium Sliding Window",
+                                                        "leaf": true
+                                                    },
+                                                    {
+                                                        "text": "Window Ventilator",
+                                                        "leaf": true
+                                                    },
+                                                    {
+                                                        "text": "Screw Type Sash Fastener",
+                                                        "leaf": true
+                                                    },
+                                                    {
+                                                        "text": "Casement Stay",
+                                                        "leaf": true
+                                                    },
+                                                    {
+                                                        "text": "Thumb Turn Sash Fastener",
+                                                        "leaf": true
+                                                    },
+                                                    {
+                                                        "text": "Casement or Fanlight Butt Hinges",
+                                                        "leaf": true
+                                                    },
+                                                    {
+                                                        "text": "Sash Cords and Pulleys",
+                                                        "leaf": true
+                                                    }
+                                                ]
+                                        },
+                                        {
+                                            "text": "Locks and Handles",
+                                            "items":
+                                                [   {
+                                                    "text": "Mortise Latch",
+                                                    "leaf": true
+                                                },
+                                                    {
+                                                        "text": "Mortise Lock and Latch",
+                                                        "leaf": true
+                                                    },
+                                                    {
+                                                        "text": "Lever Style Handles",
+                                                        "leaf": true
+                                                    },
+                                                    {
+                                                        "text": "Knob Style Handles",
+                                                        "leaf": true
+                                                    },
+                                                    {
+                                                        "text": "Rim Latch",
+                                                        "leaf": true
+                                                    },
+                                                    {
+                                                        "text": "Discrete Door Closer",
+                                                        "leaf": true
+                                                    },
+                                                    {
+                                                        "text": "Rising Butt Hinges",
+                                                        "leaf": true
+                                                    },
+                                                    {
+                                                        "text": "Surface Mounted Door Closer",
+                                                        "leaf": true
+                                                    },
+                                                    {
+                                                        "text": "Overhead Door Closer",
+                                                        "leaf": true
+                                                    },
+                                                    {
+                                                        "text": "Not Sure",
+                                                        "leaf": true
+                                                    }
+                                                ]
+                                        },
+                                        {
+                                            "text": "Door Bell and Entry System",
+                                            "leaf": true
+                                        }
+                                    ]
+                            },
+                            {
+                                "text": "Other",
+                                "leaf": true
+                            }
+
+                        ]
+                },
+                {
+                    "text": "Hall/Landing/Stairs",
+                    "items":
+                    [   {
+                        "text": "Nuts",
+                        "leaf": true
+                        },
+                        {
+                            "text": "Pretzels",
+                            "leaf": true
+                        },
+                        {
+                            "text": "Wasabi Peas",
+                            "leaf": true
+                        }
+                    ]
+                }
+        ]
+ }
